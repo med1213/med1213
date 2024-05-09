@@ -7,7 +7,7 @@ Wed Developer and UX/UI Designer
 * 🌍  I'm based in Vientaince
 * ✉️  You can contact me at [med.contact.me168@gmail.com](mailto:med.contact.me168@gmail.com)
 * 🧠  I'm learning TypeScript, Python and Server
-* 🤝  I'm open to collaborating on Lottery Project
+* 🤝  I'm open to collaborating on AI Project
 
 <a href="https://www.github.com/med1213" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/med1213?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
