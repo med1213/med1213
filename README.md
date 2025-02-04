@@ -10,7 +10,7 @@ I have develop web application and mobile app ...
 * 🖥️  See my portfolio at [My portfolio](http://med-portfolio.vercel.app/)
 * ✉️  You can contact me at [med.contact.me168@gmail.com](mailto:med.contact.me168@gmail.com)
 * 🚀  I'm currently working on [Python django unittest](http://github.com/med1213/python-unittest)
-* 🧠  I'm learning TypeScript, JavaScript, Python and Server DevOPs
+* 🧠  I'm learning TypeScript, JavaScript, Flutter, Python and Server DevOPs
 * 🤝  I'm open to collaborating on Python AI project
 * ⚡  Make software system CRM
 
