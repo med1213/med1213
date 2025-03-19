@@ -1,181 +1,51 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Med Saignalueth
-=======================================================================================================================================
-
-Software Developer
-------------------
-
-I have develop web application and mobile app ...
-
-* 🌍  I'm based in Vientiane, Laos
-* 🖥️  See my portfolio at [My portfolio](http://med-portfolio.vercel.app/)
-* ✉️  You can contact me at [med.contact.me168@gmail.com](mailto:med.contact.me168@gmail.com)
-* 🚀  I'm currently working on [Python django unittest](http://github.com/med1213/python-unittest)
-* 🧠  I'm learning TypeScript, JavaScript, Flutter, Python and Server DevOPs
-* 🤝  I'm open to collaborating on Python AI project
-* ⚡  Make software system CRM
-
-<a href="https://www.github.com/med1213" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/med1213?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-      width="36"
-      height="36"
-      alt="TypeScript" /></a
-  ><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
-      width="36"
-      height="36"
-      alt="Kotlin" /></a
-  ><a href="https://www.python.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-      width="36"
-      height="36"
-      alt="Python" /></a
-  ><a href="https://dart.dev/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg"
-      width="36"
-      height="36"
-      alt="Dart" /></a
-  ><a href="https://reactjs.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-      width="36"
-      height="36"
-      alt="React" /></a
-  ><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
-      width="36"
-      height="36"
-      alt="NextJs" /></a
-  ><a href="https://angular.io/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
-      width="36"
-      height="36"
-      alt="Angular" /></a
-  ><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-      width="36"
-      height="36"
-      alt="TailwindCSS" /></a
-  ><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-      width="36"
-      height="36"
-      alt="NodeJS" /></a
-  ><a href="https://expressjs.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-      width="36"
-      height="36"
-      alt="Express" /></a
-  ><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
-      width="36"
-      height="36"
-      alt="NestJS" /></a
-  ><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-      width="36"
-      height="36"
-      alt="MongoDB" /></a
-  ><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-      width="36"
-      height="36"
-      alt="MySQL" /></a
-  ><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-      width="36"
-      height="36"
-      alt="PostgreSQL" /></a
-  ><a href="https://www.figma.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-      width="36"
-      height="36"
-      alt="Figma" /></a
-  ><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
-      width="36"
-      height="36"
-      alt="Django" /></a
-  ><a href="https://laravel.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
-      width="36"
-      height="36"
-      alt="Laravel" /></a
-  ><a href="https://flutter.dev/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"
-      width="36"
-      height="36"
-      alt="Flutter" /></a
-  ><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg"
-      width="36"
-      height="36"
-      alt="Digital Ocean" /></a
-  ><a href="https://www.docker.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-      width="36"
-      height="36"
-      alt="Docker" /></a
-  ><a href="https://www.linux.org" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
-      width="36"
-      height="36"
-      alt="Linux" /></a
-  >
-</p>
-
-
-
-### Socials
-
-<p align="left"> <a href="https://codesandbox.io/u/happy_weekend" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/profile.php?id=100008402837765" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/med1213" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@BannaMusicla" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/med1213"><img src="https://github-readme-stats.vercel.app/api?username=med1213&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="med1213's GitHub stats" /></a>
-
-<a href="http://www.github.com/med1213"><img src="https://github-readme-streak-stats.herokuapp.com/?user=med1213&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/med1213"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=med1213&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/med1213" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=med1213&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/med1213/python-unittest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=med1213&repo=python-unittest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/meddev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<h1>Hi 👋, I'm Med SAIGNALUETH</h1>
+<p>A passionate full stack developer from Laos</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
+<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/medev03" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@medtech99" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Med1213&show_icons=true&locale=en" alt="Med1213" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Med1213&" alt="Med1213" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Med1213&show_icons=true&locale=en&layout=compact" alt="Med1213" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Med1213" alt="Med1213" /></a></p>
