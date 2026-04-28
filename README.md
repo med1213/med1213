@@ -20,7 +20,7 @@
 - 🌱 Always exploring new technologies and frameworks
 - 📺 Sharing knowledge on my **[YouTube Channel](https://www.youtube.com/@medtech99)**
 - 💬 Connect with me on **[Facebook](https://www.facebook.com/medev03)**
-- 🌐 Portfolio: **[steady-maamoul-b144bd.netlify.app](https://steady-maamoul-b144bd.netlify.app)**
+- 🌐 Portfolio: **[Portfolio Live Preview](https://med1213.github.io/main-portfolio/)**
 - ⚡ Fun fact: Code is my superpower!
 
 ---
@@ -32,7 +32,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@medtech99)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/medev03)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/med1213)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://steady-maamoul-b144bd.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://med1213.github.io/main-portfolio/)
 
 </div>
 
